@@ -33,7 +33,7 @@ python -m spacy download en_core_web_lg
 
 ## Authors
 
-* **João Barreira** - [barreira](https://github.com/PurpleBooth)
+* **João Barreira** - [barreira](https://github.com/barreira)
 * **Mafalda Nunes** - [a77364](https://github.com/a77364)
 
 ## License
